@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning: Python and figma
 - 💞️ I’m looking to collaborate on: anyone 
 - 📫 How to reach me: You grab a hand
-- 😄 Pronouns: Heehee
-- ⚡ Fun fact: Kalbo si antoine
+- ⚡ Fun fact: Pluto is not a planet 
 
 <!---
 Gabgabdevice/Gabgabdevice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
